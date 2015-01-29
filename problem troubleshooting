@@ -1,0 +1,5 @@
+Gem files will remain installed in /Users/appacademy/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.6.2 for inspection.
+Results logged to /Users/appacademy/.rbenv/versions/2.1.2/lib/ruby/gems/2.1.0/extensions/x86_64-darwin-14/2.1.0-static/nokogiri-1.6.6.2/gem_make.out
+
+~/JournalApp$ bundle config build.nokogiri --use-system-libraries
+~/JournalApp$ bundle
